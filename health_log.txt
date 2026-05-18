@@ -1,0 +1,135 @@
+
+==================================================
+Timestamp : 2026-05-17 21:55:28
+CPU Usage : 13.3%
+RAM Usage : 89.0%
+Disk Usage: 97.1%
+ALERTS:
+  WARNING  HIGH RAM: 89.0%
+  WARNING  HIGH DISK: 97.1%
+
+==================================================
+Timestamp : 2026-05-17 21:55:39
+CPU Usage : 10.9%
+RAM Usage : 88.7%
+Disk Usage: 97.1%
+ALERTS:
+  WARNING  HIGH RAM: 88.7%
+  WARNING  HIGH DISK: 97.1%
+
+==================================================
+Timestamp : 2026-05-17 21:55:50
+CPU Usage : 11.9%
+RAM Usage : 88.8%
+Disk Usage: 97.1%
+ALERTS:
+  WARNING  HIGH RAM: 88.8%
+  WARNING  HIGH DISK: 97.1%
+
+==================================================
+Timestamp : 2026-05-17 21:56:01
+CPU Usage : 21.6%
+RAM Usage : 88.6%
+Disk Usage: 97.1%
+ALERTS:
+  WARNING  HIGH RAM: 88.6%
+  WARNING  HIGH DISK: 97.1%
+
+==================================================
+Timestamp : 2026-05-17 21:56:12
+CPU Usage : 12.3%
+RAM Usage : 88.3%
+Disk Usage: 97.1%
+ALERTS:
+  WARNING  HIGH RAM: 88.3%
+  WARNING  HIGH DISK: 97.1%
+
+==================================================
+Timestamp : 2026-05-17 21:56:23
+CPU Usage : 13.9%
+RAM Usage : 88.0%
+Disk Usage: 97.1%
+ALERTS:
+  WARNING  HIGH RAM: 88.0%
+  WARNING  HIGH DISK: 97.1%
+
+==================================================
+Timestamp : 2026-05-17 21:56:34
+CPU Usage : 18.5%
+RAM Usage : 88.0%
+Disk Usage: 97.1%
+ALERTS:
+  WARNING  HIGH RAM: 88.0%
+  WARNING  HIGH DISK: 97.1%
+
+==================================================
+Timestamp : 2026-05-17 21:56:45
+CPU Usage : 16.4%
+RAM Usage : 88.3%
+Disk Usage: 97.1%
+ALERTS:
+  WARNING  HIGH RAM: 88.3%
+  WARNING  HIGH DISK: 97.1%
+
+==================================================
+Timestamp : 2026-05-17 21:56:56
+CPU Usage : 27.3%
+RAM Usage : 88.4%
+Disk Usage: 97.1%
+ALERTS:
+  WARNING  HIGH RAM: 88.4%
+  WARNING  HIGH DISK: 97.1%
+
+==================================================
+Timestamp : 2026-05-17 21:57:07
+CPU Usage : 45.1%
+RAM Usage : 89.2%
+Disk Usage: 97.1%
+ALERTS:
+  WARNING  HIGH RAM: 89.2%
+  WARNING  HIGH DISK: 97.1%
+
+==================================================
+Timestamp : 2026-05-17 21:57:18
+CPU Usage : 40.7%
+RAM Usage : 89.1%
+Disk Usage: 97.1%
+ALERTS:
+  WARNING  HIGH RAM: 89.1%
+  WARNING  HIGH DISK: 97.1%
+
+==================================================
+Timestamp : 2026-05-17 21:57:29
+CPU Usage : 22.1%
+RAM Usage : 89.7%
+Disk Usage: 96.8%
+ALERTS:
+  WARNING  HIGH RAM: 89.7%
+  WARNING  HIGH DISK: 96.8%
+
+==================================================
+Timestamp : 2026-05-17 21:57:40
+CPU Usage : 35.8%
+RAM Usage : 89.5%
+Disk Usage: 96.8%
+ALERTS:
+  WARNING  HIGH RAM: 89.5%
+  WARNING  HIGH DISK: 96.8%
+
+==================================================
+Timestamp : 2026-05-17 21:57:51
+CPU Usage : 19.3%
+RAM Usage : 89.4%
+Disk Usage: 96.8%
+ALERTS:
+  WARNING  HIGH RAM: 89.4%
+  WARNING  HIGH DISK: 96.8%
+
+==================================================
+Timestamp : 2026-05-17 21:58:02
+CPU Usage : 30.2%
+RAM Usage : 89.5%
+Disk Usage: 96.8%
+ALERTS:
+  WARNING  HIGH RAM: 89.5%
+  WARNING  HIGH DISK: 96.8%
