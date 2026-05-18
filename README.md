@@ -18,3 +18,8 @@ python health_monitor.py
 - System administration concepts
 - File I/O and logging
 - Threshold-based alerting
+
+## Screenshots
+
+![Script Running](Cpuramdiskreading.png)
+![VS Code Setup](PythonInstalled.png)
